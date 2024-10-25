@@ -1,4 +1,4 @@
 # FalcoGroup
 <br>
 This is my first Git Repository
-Author - Barandeep Singh
+Author - Barandeep (FalcoGroup)
